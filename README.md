@@ -1,0 +1,2 @@
+# lang
+Php MultiLanguage Class
